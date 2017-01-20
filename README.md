@@ -1,6 +1,6 @@
 # kaggle-titanic
 
-## Target of the problem is to predict given a feature set can I determine if that feature set would have died if it aborded titanic or would it have survived.
+## Target of the problem is to predict given a feature set can I determine if that feature set would have died if it boarded titanic or would it have survived.
 
 For each passenger in the test set, you must predict whether or not they survived the sinking ( 0 for deceased, 1 for survived ).  Your score is the percentage of passengers you correctly predict.
 
